@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Zaidk/30-nites-of-code)  
+  ![@Zaidk #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Zaidk)
 <!--
 **Zaidkhan0407/Zaidkhan0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
